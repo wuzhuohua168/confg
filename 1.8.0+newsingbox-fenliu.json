@@ -338,7 +338,7 @@
     {
       "tag": "SV1",
       "type": "vless",
-      "server": "49.51.46.56", //修改优选ip或域名
+      "server": "shopify.com", //修改优选ip或域名
       "server_port": 80, //端口可更改为80 8080 8880 2052 2086 2095
       "uuid": "734c5774-6ee8–44b2-8158-a564f1345cc9", //修改你的uuid
       "packet_encoding": "xudp",
@@ -355,8 +355,8 @@
     {
       "tag": "SV2",
       "type": "vless",
-      "server": "download.yunzhongzhuan.com", //修改优选ip或域名
-      "server_port": 2095, //端口可更改为80 8080 8880 2052 2086 2095
+      "server": "23.227.38.33", //修改优选ip或域名
+      "server_port": 80, //端口可更改为80 8080 8880 2052 2086 2095
       "uuid": "734c5774-6ee8–44b2-8158-a564f1345cc9", //修改你的uuid
       "packet_encoding": "xudp",
       "transport": {
