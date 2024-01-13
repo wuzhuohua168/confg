@@ -338,7 +338,7 @@
     {
       "tag": "SV1",
       "type": "vless",
-      "server": "shopify.com", //修改优选ip或域名
+      "server": "49.51.46.56", //修改优选ip或域名
       "server_port": 80, //端口可更改为80 8080 8880 2052 2086 2095
       "uuid": "bacaef49-5f56-47ec-b3aa-2fcc8b30f613", //修改你的uuid
       "packet_encoding": "xudp",
