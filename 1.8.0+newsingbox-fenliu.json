@@ -111,11 +111,7 @@
       "tag": "🤖 OpenAI",
       "type": "selector",
       "outbounds": [
-        "🇹🇼 台湾节点",
-        "🇸🇬 狮城节点",
-        "🇯🇵 日本节点",
         "🇺🇸 美国节点",
-        "✈️ 其他节点"
       ]
     },
     {
@@ -338,15 +334,15 @@
     {
       "tag": "SV1",
       "type": "vless",
-      "server": "shopify.com", //修改优选ip或域名
+      "server": "49.51.46.56", //修改优选ip或域名
       "server_port": 80, //端口可更改为80 8080 8880 2052 2086 2095
-      "uuid": "ac6637d9-031d-4417-a592-fe60bb9e61c2", //修改你的uuid
+      "uuid": "734c5774-6ee8–44b2-8158-a564f1345cc9", //修改你的uuid
       "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "444.5tdwasge.workers.dev" //修改你的host
+          "Host": "sinxbox.joyhua.workers.dev" //修改你的host
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
@@ -355,15 +351,15 @@
     {
       "tag": "SV2",
       "type": "vless",
-      "server": "23.227.38.33", //修改优选ip或域名
-      "server_port": 80, //端口可更改为80 8080 8880 2052 2086 2095
-      "uuid": "ac6637d9-031d-4417-a592-fe60bb9e61c2", //修改你的uuid
+      "server": "172.67.164.37", //修改优选ip或域名
+      "server_port": 8880, //端口可更改为80 8080 8880 2052 2086 2095
+      "uuid": "734c5774-6ee8–44b2-8158-a564f1345cc9", //修改你的uuid
       "packet_encoding": "xudp",
       "transport": {
         "type": "ws",
         "path": "/",
         "headers": {
-          "Host": "444.5tdwasge.workers.dev" //修改你的host
+          "Host": "sinxbox.joyhua.workers.dev" //修改你的host
         },
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "max_early_data": 2048
