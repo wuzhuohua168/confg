@@ -618,7 +618,7 @@
         "tag": "geosite-microsoft",
         "type": "remote",
         "format": "binary",
-        "url": "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-microsoft.srs",
+        "url": "copilot.microsoft.com",
         "download_detour": "auto"
       },
       {
